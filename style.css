@@ -1,0 +1,42 @@
+/*body{
+	background-image: url(./img/star_wars_rogue_one-15.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+*/
+#logo{
+	margin-top: 50px;
+	padding: 30px;
+	background: grey;
+
+}
+nav{
+	border: 1px solid #dddddd;
+	border-bottom: none;
+}
+.slides>li>p{
+	max-width: 300px;
+	position: absolute;
+	padding: 20px;
+	color: #dedede;
+}
+.is-parent{
+	padding: 0.5em !important;
+}
+.card>p{
+	background-color: #343434;
+	width: 100%;
+	padding: 5px;
+	color: #ededed;
+}
+.remark>p{
+	display: inline-block;
+	background-color: #3273dc;
+	color: #ededed;
+	margin-bottom: 10px;
+	padding: 5px 39px;
+}
+.remark{
+	border-top: 5px solid #3273dc;
+}
